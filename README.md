@@ -1,4 +1,5 @@
-## Hi there 👋
+<p align="center"> more info: rentry.co/HikaruIndou
+
 
 <!--
 **wuufies/Wuufies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
