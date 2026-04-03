@@ -1,4 +1,4 @@
-<p align="center">[more info](https://rentry.co/HikaruIndou)
+<p align="center"> ---> [ https://rentry.co/HikaruIndou ] <---
   
 <p align="center"><img src="https://files.catbox.moe/bedpts.png" </p>
 
